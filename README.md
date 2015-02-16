@@ -1,6 +1,6 @@
 #Graph Data Structure
 
-Implementation of Graph ADT (http://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29) in Java
+Implementation of [Graph ADT](http://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29) in Java
 
 #Features
 1. Creating a graph by the user input
